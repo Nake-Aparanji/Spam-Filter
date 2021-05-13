@@ -7,4 +7,4 @@ At the backend, an ML model is created using the Naïve Bayes algorithm. Python 
 
 Flask framework is utilized to make the connection between the HTML webpage and the python class file. Using flask, the input that from the webpage is sent to the class file(model), which filters it and sends the result back to flask, which in turn returns the result to the webpage as output.
 
-Finally, this model is deployed on the internet so that it is accessible to everyone. For this a website, ‘python anywhere’, was used where a domain is created and the webpage is uploaded. The link to that page is …
+Finally, this model is deployed on the internet so that it is accessible to everyone. For this a website, ‘python anywhere’, was used where a domain is created and the webpage is uploaded. The link to that page is http://nake.pythonanywhere.com/
